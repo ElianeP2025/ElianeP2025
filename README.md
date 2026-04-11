@@ -1,4 +1,9 @@
-<h1 align="center">👋 Olá, eu sou Eliane Pereira</h1>
+<div align="center">
+  <img src="https://i.imgur.com/beQGO3I.jpeg[/img]" width="100px" alt="Logo ou Avatar" />
+  <h1>👋 Olá, eu sou Eliane Pereira</h1>
+  <p>Entre códigos e desafios, contruindo minha melhor versão na tecnologia.</p>
+</div>
+<h1 align="center"></h1>
 
 <p align="center">
   💻 Estudante de TI &nbsp;|&nbsp; 📍 Brasil &nbsp;|&nbsp; 🚀 Apaixonada por tecnologia e aprendizado contínuo
