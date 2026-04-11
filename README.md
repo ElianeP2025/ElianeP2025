@@ -17,7 +17,7 @@
 
 ## 🧠 Sobre mim
 
-- 🎯 Atualmente estudando: *Ciência de Dados, Power BI, JavaScript e Python*
+- 🎯 Atualmente estudando: *Ciências de Dados, Power BI, JavaScript e Python*
 - 💡 Interesses: *Ciência de Dados, Inteligência Artificial e Business Intelligence*
 - 📚 Sempre aprendendo algo novo
 
